@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\learnBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{749CDF7C-2727-4674-B5FF-FE5069B1B4E0}|learnBackend\\learnBackend.csproj|c:\\users\\pc\\source\\repos\\learnbackend\\learnbackend\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CDF7C-2727-4674-B5FF-FE5069B1B4E0}|learnBackend\\learnBackend.csproj|solutionrelative:learnbackend\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CDF7C-2727-4674-B5FF-FE5069B1B4E0}|learnBackend\\learnBackend.csproj|c:\\users\\pc\\source\\repos\\learnbackend\\learnbackend\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CDF7C-2727-4674-B5FF-FE5069B1B4E0}|learnBackend\\learnBackend.csproj|solutionrelative:learnbackend\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CDF7C-2727-4674-B5FF-FE5069B1B4E0}|learnBackend\\learnBackend.csproj|c:\\users\\pc\\source\\repos\\learnbackend\\learnbackend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CDF7C-2727-4674-B5FF-FE5069B1B4E0}|learnBackend\\learnBackend.csproj|solutionrelative:learnbackend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CDF7C-2727-4674-B5FF-FE5069B1B4E0}|learnBackend\\learnBackend.csproj|c:\\users\\pc\\source\\repos\\learnbackend\\learnbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CDF7C-2727-4674-B5FF-FE5069B1B4E0}|learnBackend\\learnBackend.csproj|solutionrelative:learnbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CDF7C-2727-4674-B5FF-FE5069B1B4E0}|learnBackend\\learnBackend.csproj|c:\\users\\pc\\source\\repos\\learnbackend\\learnbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{749CDF7C-2727-4674-B5FF-FE5069B1B4E0}|learnBackend\\learnBackend.csproj|solutionrelative:learnbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CDF7C-2727-4674-B5FF-FE5069B1B4E0}|learnBackend\\learnBackend.csproj|c:\\users\\pc\\source\\repos\\learnbackend\\learnbackend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{749CDF7C-2727-4674-B5FF-FE5069B1B4E0}|learnBackend\\learnBackend.csproj|solutionrelative:learnbackend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CDF7C-2727-4674-B5FF-FE5069B1B4E0}|learnBackend\\learnBackend.csproj|c:\\users\\pc\\source\\repos\\learnbackend\\learnbackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{749CDF7C-2727-4674-B5FF-FE5069B1B4E0}|learnBackend\\learnBackend.csproj|solutionrelative:learnbackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\learnBackend\\learnBackend\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "learnBackend\\Models\\Question.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\learnBackend\\learnBackend\\Models\\Question.cs",
+              "RelativeToolTip": "learnBackend\\Models\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:28:08.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuestionsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\learnBackend\\learnBackend\\Controllers\\QuestionsController.cs",
+              "RelativeDocumentMoniker": "learnBackend\\Controllers\\QuestionsController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\learnBackend\\learnBackend\\Controllers\\QuestionsController.cs",
+              "RelativeToolTip": "learnBackend\\Controllers\\QuestionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:27:16.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\learnBackend\\learnBackend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "learnBackend\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\learnBackend\\learnBackend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "learnBackend\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T17:07:47.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\learnBackend\\learnBackend\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "learnBackend\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\learnBackend\\learnBackend\\appsettings.Development.json",
+              "RelativeToolTip": "learnBackend\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T17:06:50.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\learnBackend\\learnBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "learnBackend\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\learnBackend\\learnBackend\\appsettings.json",
+              "RelativeToolTip": "learnBackend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T16:51:52.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\learnBackend\\learnBackend\\Program.cs",
+              "RelativeDocumentMoniker": "learnBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\learnBackend\\learnBackend\\Program.cs",
+              "RelativeToolTip": "learnBackend\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:51:31.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\learnBackend\\learnBackend\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "learnBackend\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\learnBackend\\learnBackend\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "learnBackend\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:50:37.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
