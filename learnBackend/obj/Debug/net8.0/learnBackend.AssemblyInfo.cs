@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("learnBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc0a0013e7812e41163d7e7056b6576a983331c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("learnBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("learnBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
